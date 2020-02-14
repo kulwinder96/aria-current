@@ -5,9 +5,10 @@
 </head>
 <body>
 <?php
-require("header.php");
+require("https://kulwinder96.github.io/aria-current/header.php");
 ?>
 <h1>
-this is first heading of third page</h1>
+this is first heading of third page
+  </h1>
 </body>
 </html>
