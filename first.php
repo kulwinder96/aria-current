@@ -4,8 +4,9 @@
 <title> it is second page of the websight</title>
 </head>
 <body>
-<?php
-require("header.php");
+
+  <?php
+require("https://kulwinder96.     github.io/aria-current/header.php");
 ?>
 </body>
 </html>
